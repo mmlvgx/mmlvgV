@@ -1,5 +1,5 @@
 # Projects
-Discord Bot: [Maryasha](https://github.com/mmlvgx/maryasha)
+Discord Bot: [Maryasha](https://github.com/mmlvgx/maryasha)\
 Python Logger: [Juneberry](https://github.com/mmlvgx/juneberry)
 # Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmlvgx&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
