@@ -13,6 +13,8 @@
 ## Discord Bots Templates
 [Bot](https://github.com/mmlvgx/bot) (`RELEASE`)\
 [Hikari.bf](https://github.com/mmlvgx/hikari.bf) (`RELEASE`)
+# Other
+[fox](https://github.com/mmlvgx/fox) - Humane markup language (`UNKNOWN`)
 # Contacts
 [My Site](https://mmlvgx.xp3.biz/)\
 [Discord Server](https://discord.gg/HNvQzUtZ)
