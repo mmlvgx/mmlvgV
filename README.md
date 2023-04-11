@@ -1,7 +1,6 @@
 ![](assets/lol.png)\
 🦧 Senior Ботошлёп программист
 # Projects
-## SQL
 [Cloudberry](https://github.com/mmlvgx/cloudberry) - SQLite3 is made easy (`WIP`)\
 [Pudgeweb](https://github.com/mmlvgx/pudgeweb) - Website for [PudgeLand](https://bit.ly/3YhR1eJ) server (`WIP`)\
 [Juneberry](https://github.com/mmlvgx/juneberry) - Python logging with Themes (`RELEASE`)\
