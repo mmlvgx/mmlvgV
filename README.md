@@ -9,7 +9,7 @@
 [Juneberry](https://github.com/mmlvgx/juneberry) - Python logging with Themes (`RELEASE`)\
 [Huckleberry](https://github.com/mmlvgx/huckleberry) - Python command-line interfaces (`WIP`)
 ## Discord Bots
-[Maryasha](https://github.com/mmlvgx/maryasha) (`RELEASE`)
+[Maryasha](https://github.com/mmlvgx/maryasha) (`RELEASE`)\
 [Pensiya](https://github.com/mmlvgx/pensiya) (`RELEASE`)
 ## Discord Bots Templates
 [Bot](https://github.com/mmlvgx/bot) (`RELEASE`)\
