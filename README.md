@@ -1,4 +1,4 @@
-![](assets/lol.png)
+![](assets/lol.png)\
 🦧 Senior Ботошлёп программист
 # Projects
 ## SQL
